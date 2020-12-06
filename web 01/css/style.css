@@ -1,0 +1,289 @@
+body
+{
+	background-color: silver;
+}
+fieldset
+{
+	margin: 0px 40px 10px 40px;
+}
+.navbar
+{
+   background-color: #1d9d74;	
+   margin-top: 0px;
+   display: block;
+   text-align: center;
+   overflow: hidden;
+   float: right;
+}
+.navbar li
+{
+	display: inline;
+	padding: 0px; 
+	padding-right: 15px;
+	font-size: 0.5cm;
+}
+.navbar a
+{
+	color: white;
+}
+.navbar a:hover
+{
+	background-color: silver;
+}
+.header
+{
+	background-color: #1d9d74;
+	height: 80px;
+	margin: 30px 0px 10px 0px;
+	display: block;
+}
+
+.parent_task01
+{
+   display: flex;
+}
+.task01
+{
+	background-color: brown;
+	height: 350px;
+	width: 50%;
+	margin: 0px 20px 10px 40px;
+	border: 5px solid black;
+}
+.task01 h1
+{
+	padding: 5px;
+	font-size: 1cm;
+	font-family: Forte;
+}
+.task01 p
+{
+    padding: 10px;
+    font-size: 0.5cm;
+}
+.task02
+{
+	background-color: brown;
+	height: 348px;
+	width: 50%;
+	margin: 0px 40px 10px 20px;
+	border: 5px solid black;
+}
+.task02 img
+{
+	width: 620px;
+}
+
+.parent_task02
+{
+   display: flex;
+}
+.task03
+{
+   background-color: brown;
+   height: 250px;
+   width: 33%;
+   margin: 20px 20px 10px 40px;
+}
+.task03 img
+{
+	width: 342px;
+	height: 250px;
+	border: 3px solid black;
+}
+.task04
+{
+   background-color: brown;
+   height: 250px;
+   width: 33%;
+   margin: 20px 40px 10px 40px;
+}
+.task04 img
+{
+    width: 342px;
+	height: 250px;	
+	border: 3px solid black;
+}
+.task05
+{
+   background-color: brown;
+   height: 250px;
+   width: 33%;
+   margin: 20px 40px 10px 20px;
+}
+.task05 img
+{
+	width: 342px;
+	height: 250px;	
+	border: 3px solid black;
+}
+
+.task06
+{
+	background-color: brown;
+	height: 280px;
+}
+.task06 h1
+{
+	text-align: center;
+	padding: 5px;
+	font-size: 1cm;
+	font-family: Arial black;
+}
+.task06 li
+{
+	font-size: 0.5cm;
+}
+
+.parent_task03
+{
+   display: flex;
+}
+.task07
+{
+   background-color: brown;
+   height: 250px;
+   width: 20%;
+   margin: 20px 40px 10px 20px;
+	border:3px solid black;
+}
+.task07 img
+{
+	width:100%;
+	border-bottom: 3px solid white;
+}
+.task07 h2
+{
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	border:0px;
+	color: white;
+}
+.task07 p
+{
+	padding-right: 0px;
+	margin: 0px;
+}
+
+.task08
+{
+   background-color: brown;
+   height: 250px;
+   width: 20%;
+   margin: 20px 40px 10px 20px;
+}
+.task08 img
+{
+	width: 100%;
+	height:120px;
+	border-bottom: 3px solid white;
+}
+.task08 h2
+{
+    text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	border:0px;
+	color: white;
+}
+.task p
+{
+   padding-right: 0px;
+   margin: 0px;	
+}
+
+.task09
+{
+   background-color: brown;
+   height: 250px;
+   width: 20%;
+   margin: 20px 40px 10px 20px;
+}
+.task09 img
+{
+	width: 100%;
+	height:120px;
+	border-bottom: 3px solid white; 
+}
+.task09 h2
+{
+   text-align: center;
+   padding: 0px;
+   margin-top: 0px;
+   border:0px;
+   color: white;
+}
+.task09 p
+{
+   padding-right: 0px;
+   margin: 0px;	
+}
+
+.task10
+{
+   background-color: brown;
+   height: 250px;
+   width: 20%;
+   margin: 20px 40px 10px 20px;
+}
+.task10 img
+{
+	width: 100%;
+	height:120px;
+	border-bottom: 3px solid white;
+}
+.task10 h2
+{
+   text-align: center;
+   padding: 0px;
+   margin-top: 0px;
+   border:0px;
+   color: white;
+}
+.task10 p
+{
+   padding-right: 0px;
+   margin: 0px;
+}
+
+.task11
+{
+   background-color: brown;
+   height: 250px;
+   width: 20%;
+   margin: 20px 40px 10px 20px;
+}
+.task11 img
+{
+	width: 100%;
+	height:120px;
+	border-bottom: 3px solid white;
+}
+.task11 h2
+{
+   text-align: center;
+   padding: 0px;
+   margin-top: 0px;
+   border:0px;
+   color: white;
+}
+.task p
+{
+   padding-right: 0px;
+   margin: 0px;	
+}
+
+.fotter
+{
+	background-color: #1d9d74;
+	height: 200px;
+	margin: 30px 0px 10px 0px;
+	padding: 10px 10px 3px 10px;
+	text-align: center;
+	font-size: 0.5cm;
+}
+.fotter a
+{
+	padding: 15px;
+}
